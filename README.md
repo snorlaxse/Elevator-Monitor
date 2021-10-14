@@ -36,3 +36,6 @@ $ python run-real-time.py
 ```
 
 * 若主机有NVIDIA GPU，强烈建议安装cuda，可极大地提升检测效率
+
+## 参考
+[vlad3996/lsc-cnn](https://github.com/vlad3996/lsc-cnn)
